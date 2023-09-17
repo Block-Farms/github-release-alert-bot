@@ -1,0 +1,12 @@
+[
+    {
+        "github_repo_owner": "owner1",
+        "github_repo_name": "repo1",
+        "github_url": "https://github.com/owner1/repo1"
+    },
+    {
+        "github_repo_owner": "owner2",
+        "github_repo_name": "repo2",
+        "github_url": "https://github.com/owner2/repo2"
+    }
+]
